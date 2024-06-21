@@ -10,6 +10,7 @@
     <persistedState key="workingSets" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workingSets/>"/>
     <persistedState key="aggregateWorkingSetId" value="Aggregate for window 1716223182798"/>
     <tags>topLevel</tags>
+    <tags>shellMaximized</tags>
     <children xsi:type="basic:PartSashContainer" xmi:id="_QS_bYiQlEe-CdbfV37ORQg" selectedElement="_QS_bYyQlEe-CdbfV37ORQg" horizontal="true">
       <children xsi:type="advanced:PerspectiveStack" xmi:id="_QS_bYyQlEe-CdbfV37ORQg" elementId="org.eclipse.ui.ide.perspectivestack" containerData="7500" selectedElement="_QS_bZCQlEe-CdbfV37ORQg">
         <children xsi:type="advanced:Perspective" xmi:id="_QS_bZCQlEe-CdbfV37ORQg" elementId="com.springsource.sts.ide.perspective" selectedElement="_QS_bZSQlEe-CdbfV37ORQg" label="Spring" iconURI="platform:/plugin/org.springframework.ide.eclipse.ui/icons/full/obj16/spring_perspective.gif">
@@ -487,7 +488,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_QTADaiQlEe-CdbfV37ORQg" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_77nR4CyQEe--ipuLTc9rUQ" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_QTB6KCQlEe-CdbfV37ORQg"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_s8DzYC_zEe-VO4MmPLC1fg" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_QTB6KCQlEe-CdbfV37ORQg"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_QTADdyQlEe-CdbfV37ORQg" elementId="group.edit" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -521,7 +522,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_QTADyCQlEe-CdbfV37ORQg" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_77pHECyQEe--ipuLTc9rUQ" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_QTB52SQlEe-CdbfV37ORQg"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_s8FokC_zEe-VO4MmPLC1fg" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_QTB52SQlEe-CdbfV37ORQg"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_QTAD1CQlEe-CdbfV37ORQg" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -3011,7 +3012,7 @@
   <addons xmi:id="_QTB7liQlEe-CdbfV37ORQg" elementId="MinMax Addon" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.MinMaxAddon"/>
   <addons xmi:id="_QTB7lyQlEe-CdbfV37ORQg" elementId="org.eclipse.ui.workbench.addon.0" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench/org.eclipse.e4.ui.internal.workbench.addons.HandlerProcessingAddon"/>
   <addons xmi:id="_QTB7mCQlEe-CdbfV37ORQg" elementId="SplitterAddon" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.splitteraddon.SplitterAddon"/>
-  <addons xmi:id="_IYS0IKimEeS11vbz3f9ezw" elementId="org.eclipse.ui.ide.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.ide" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
+  <addons xmi:id="_styG0S_zEe-VO4MmPLC1fg" elementId="org.eclipse.ui.ide.addon.0" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
   <addons xmi:id="_QTB7miQlEe-CdbfV37ORQg" elementId="org.eclipse.ui.ide.application.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.ui.ide.application/org.eclipse.ui.internal.ide.application.addons.ModelCleanupAddon"/>
   <categories xmi:id="_QTB7myQlEe-CdbfV37ORQg" elementId="org.eclipse.ui.category.edit" name="Edit"/>
   <categories xmi:id="_QTCesCQlEe-CdbfV37ORQg" elementId="org.eclipse.mylyn.wikitext.ui.editor.category" name="WikiText Markup Editing Commands" description="commands for editing lightweight markup"/>
